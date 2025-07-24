@@ -1,11 +1,15 @@
 package project.TP5.services;
 
+import jakarta.transaction.Transactional;
+import org.springframework.stereotype.Service;
 import project.TP5.exceptions.DepartamentoNoEncontradoException;
 import project.TP5.models.Departamento;
 import project.TP5.repositories.DepartamentoRepository;
 
 import java.util.List;
 
+@Service
+@Transactional
 public class DepertamentoServiceImpl implements DepartamentoService {
     private final DepartamentoRepository departamentoRepository;
 

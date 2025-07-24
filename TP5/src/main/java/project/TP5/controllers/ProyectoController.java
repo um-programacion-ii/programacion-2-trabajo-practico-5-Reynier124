@@ -3,7 +3,6 @@ package project.TP5.controllers;
 import org.springframework.http.HttpStatus;
 import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
-import project.TP5.models.Empleado;
 import project.TP5.models.Proyecto;
 import project.TP5.services.ProyectoService;
 

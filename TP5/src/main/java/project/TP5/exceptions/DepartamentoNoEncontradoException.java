@@ -1,5 +1,7 @@
 package project.TP5.exceptions;
 
-public class DepartamentoNoEncontradoException extends Exception {
-    public DepartamentoNoEncontradoException(String message) {}
+public class DepartamentoNoEncontradoException extends RecursoNoEncontradoException {
+    public DepartamentoNoEncontradoException(String message) {
+        super(message);
+    }
 }

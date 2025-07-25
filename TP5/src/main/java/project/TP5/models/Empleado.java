@@ -33,7 +33,7 @@ public class Empleado {
     @Temporal(TemporalType.DATE)
     private LocalDate fechaContratacion;
 
-    @Column(nullable = false, precision = 10, scale = 2)
+    @Column(nullable = false)
     private Double salario;
 
     @ManyToOne(fetch = FetchType.LAZY)

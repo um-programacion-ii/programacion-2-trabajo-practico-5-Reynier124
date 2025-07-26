@@ -110,8 +110,8 @@ Desarrollar un sistema de gestión de empleados utilizando Spring Boot con JPA, 
 > 💡 **Nota**: Esta estimación considera la complejidad de configurar múltiples bases de datos, Docker y el aprendizaje de JPA. El tiempo incluye la configuración de profiles y la containerización de las bases de datos.
 
 ## 👨‍🎓 Información del Alumno
-- **Nombre y Apellido**: [Nombre y Apellido del Alumno]
-- **Legajo**: [Número de Legajo]
+- **Nombre y Apellido**: López, Reynier
+- **Legajo**: 62182
 
 > ⚠️ **IMPORTANTE**: Este trabajo práctico se realiza **INDIVIDUALMENTE**. Aunque se utilizan herramientas de colaboración como Pull Requests y Code Review, estas son para mantener buenas prácticas de desarrollo y un historial ordenado. Todo el desarrollo debe ser realizado por el mismo estudiante.
 
@@ -141,6 +141,11 @@ Desarrollar un sistema de gestión de empleados utilizando Spring Boot con JPA, 
 - JUnit 5.10.1
 - Mockito 5.8.0
 - Git y GitHub
+
+## Configuración
+Abrir su terminal dentro de una carpeta en donde quieran dejar la API y escribir los siguientes comandos:
+- git clone git@github.com:um-programacion-ii/programacion-2-trabajo-practico-5-Reynier124.git
+- cd programacion-2-trabajo-practico-5-Reynier124
 
 ## 📊 Casos de Uso del Sistema
 

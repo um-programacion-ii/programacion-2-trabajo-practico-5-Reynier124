@@ -142,6 +142,11 @@ Desarrollar un sistema de gestión de empleados utilizando Spring Boot con JPA, 
 - Mockito 5.8.0
 - Git y GitHub
 
+## Configuración
+Abrir su terminal dentro de una carpeta en donde quieran dejar la API y escribir los siguientes comandos:
+- git clone git@github.com:um-programacion-ii/programacion-2-trabajo-practico-5-Reynier124.git
+- cd programacion-2-trabajo-practico-5-Reynier124
+
 ## 📊 Casos de Uso del Sistema
 
 ### CU-001: Gestionar Empleados
